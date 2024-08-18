@@ -1,4 +1,4 @@
-algorithm：废弃的算法笔记，没用
+algorithm：废弃的算法笔记，没用不建议看
 
 data-struct-algorithm：算法课程笔记
 
