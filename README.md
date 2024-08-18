@@ -1,18 +1,16 @@
-AlgorithmTest：废弃的算法笔记，没用
+algorithm：废弃的算法笔记，没用
 
-DataStructAndAlgorithm：算法课程笔记
+data-struct-algorithm：算法课程笔记
 
-DatebaseLearn：数据库笔记
+database：数据库笔记
 
-LeetCodeTest：LeetCode部分题目的解题测试
+leet-code：LeetCode部分题目的解题测试
 
-WebFromEnd：前端笔记
+web：前端笔记
 
-WebToEnd：后端笔记
+web-html：后端笔记
 
-algorithmBrushing：算法刷题笔记
-
-code(FirstProgram)：没用，别看
+algorithm-brushing：算法刷题笔记
 
 code：JavaSE笔记
 
